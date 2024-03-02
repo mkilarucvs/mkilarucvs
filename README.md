@@ -27,6 +27,4 @@ const mani_kilaru = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
- 
- 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mkilarucvs&count_private=false&theme=default&showicons=true)]()
+
