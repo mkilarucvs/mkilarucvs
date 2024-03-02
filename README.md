@@ -29,4 +29,4 @@ const mani_kilaru = {
 ```
  
  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=manikantesh&count_private=true&theme=default&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mkilarucvs&count_private=false&theme=default&showicons=true)]()
